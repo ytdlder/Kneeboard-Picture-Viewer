@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kneeboard_Picture_Viewer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Folder_Background" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Info</Value>
+    </Setting>
+    <Setting Name="Folder_Button_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI, 9.75pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="Folder_Button_Background" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="File_Background" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">MenuBar</Value>
+    </Setting>
+    <Setting Name="File_Button_Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI, 9.75pt</Value>
+    </Setting>
+    <Setting Name="File_Button_Background" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">YellowGreen</Value>
+    </Setting>
+    <Setting Name="Buttons_Background" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Cyan</Value>
+    </Setting>
+    <Setting Name="Kneeboard_Images_Directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Close_Navigation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
