@@ -19,7 +19,7 @@ For the 2D pilots out there, this program lets you navigate through your kneeboa
   * __Direct Link__: [Latest x64 Runtime](https://aka.ms/dotnet/6.0/windowsdesktop-runtime-win-x64.exe)
 * Folder/Subfolder tree with pictures as kneeboard files
   * a full folder structure with KB pages from several people can be downloaded under "Releases"
-  * or here directly: 
+  * or here directly: [Kneeboard folder & images](https://github.com/ytdlder/Kneeboard-Picture-Viewer/releases/download/v1.0.2/Kneeboard.sample.7z)
 
 ### HowTo
 After starting the program, you'll be asked to specifiy a directory with your Kneeboard folders and images inside them:<br>
@@ -45,4 +45,4 @@ You can change your colors and the font in the apps settings.
 
 ## Acknowledgments
 
-* KB pictures used are mentioned in the info-page of the app!
+* KB pictures used are mentioned & linked in the info-page of the app!
